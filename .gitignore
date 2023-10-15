@@ -1,0 +1,79 @@
+# Byte-compiled Python files
+__pycache__/
+
+# Environment variable file
+.env
+
+# Python Virtual Environment
+venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Local development settings
+instance/
+
+# Dependency directories
+lib/
+lib64/
+include/
+bin/
+build/
+
+# IDE-specific files (e.g., PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Editor/IDE configuration files
+*.swp
+*.swo
+*.swn
+*.swm
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Compiled extensions
+*.so
+
+# Compiled source
+__pycache__/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Static and Upload folders (customize as needed)
+static/uploads/
+
+# Ignore your own configuration files (e.g., for sensitive information)
+config.py
+config.cfg
+
+# Ignore your own secret key files
+secret_key.py
+
+# Ignore any files you generate for production or deployment
+*.pid
+*.log
+*.cfg
+*.conf
+*.json
+
+# macOS DS_Store files
+.DS_Store
+
+# Compiled Python modules
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
